@@ -22,4 +22,4 @@ This portfolio will include examples of my work, the challenges completed workin
 
 ## Weekly goals
 
-[Week 1](https://github.com/nelsonclaire/Portfolio/blob/master/notes/week_1.md)
+[Week 1](https://github.com/nelsonclaire/Portfolio/blob/master/notes/week-1.md)

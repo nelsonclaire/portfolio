@@ -1,4 +1,4 @@
-# Project: Boris Bikes
+# Project: Oystercard
 
 ## I am working towards achieving these goals
 
@@ -8,9 +8,9 @@
 
 ------
 
-## Link to Boris Bikes
+## Link to Oystercard
 
-Challenge [here](https://github.com/makersacademy/course/tree/master/boris_bikes)
+Challenge [here](https://github.com/makersacademy/course/tree/main/oystercard)
 
 ------
 
@@ -19,6 +19,4 @@ Challenge [here](https://github.com/makersacademy/course/tree/master/boris_bikes
 - I can answer yes to the following...
   - I can diagram and explain my TDD process to my peers and/or a coach
   - I have collected feedback from my peers about how I am as a pair partner that shows I am improving
-
-
 

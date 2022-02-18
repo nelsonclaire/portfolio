@@ -1,0 +1,1 @@
+How to configure Sinatra [settings](http://sinatrarb.com/configuration.html)

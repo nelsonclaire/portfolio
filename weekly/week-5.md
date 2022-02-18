@@ -1,4 +1,4 @@
-# Week 1
+# Week 5
 
 _A weekly journal to keep track of the work I am doing towards each of the goals._
 
@@ -8,8 +8,4 @@ _A weekly journal to keep track of the work I am doing towards each of the goals
 
 ## Goals
 
-1. Pairing using the driver-navigator style
-    - [Boris Bikes](https://github.com/nelsonclaire/Portfolio/blob/master/projects/boris-bikes.md)
-
-
-------
+By the end of this week I can:

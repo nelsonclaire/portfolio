@@ -1,4 +1,6 @@
-The [capybara cheatsheet](https://gist.github.com/zhengjia/428105)
+A Capybara [cheat sheet](https://codecabulary.launchacademy.com/learn-test-driven-development/rspec/capybara-cheat-sheet)
+
+Another Capybara [cheat sheet](https://gist.github.com/zhengjia/428105)
 ```
 =Navigating=
     visit('/projects')

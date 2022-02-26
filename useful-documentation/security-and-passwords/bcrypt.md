@@ -1,0 +1,1 @@
+To secure passwords you can use the [bcrypt gem](https://github.com/bcrypt-ruby/bcrypt-ruby)

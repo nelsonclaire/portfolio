@@ -52,14 +52,21 @@ Summed up in the acronym CEP, standing for:
 
 ## Projects
 
-## Pair Programming 
-
+## Pair Programming and Projects
+[Acebook](https://github.com/nelsonclaire/Portfolio/blob/master/projects/acebook.md)
+[Notes](https://github.com/nelsonclaire/Portfolio/blob/master/projects/notes.md)
+[Thermostat](https://github.com/nelsonclaire/Portfolio/blob/master/projects/thermostat.md)
+[MakersBnB](https://github.com/nelsonclaire/Portfolio/blob/master/projects/makerbnb.md)
 [Bookmark Manager](https://github.com/nelsonclaire/Portfolio/blob/master/projects/bookmark-manager.md)
 [Battle](https://github.com/nelsonclaire/Portfolio/blob/master/projects/battle.md)
 [Oystercard](https://github.com/nelsonclaire/Portfolio/blob/master/projects/oystercard.md)
 [Boris Bikes](https://github.com/nelsonclaire/Portfolio/blob/master/projects/boris-bikes.md)
 
 ## Weekend Challenges 
+[Instagram](https://github.com/nelsonclaire/Portfolio/blob/master/projects/instagram.md)
+[Chitter using API](https://github.com/nelsonclaire/Portfolio/blob/master/projects/frontend-api.md)
+[Bowling in JS](https://github.com/nelsonclaire/Portfolio/blob/master/projects/bowling-js.md)
+[Bowling in Ruby](https://github.com/nelsonclaire/Portfolio/blob/master/projects/bowling-ruby.md)
 [Chitter](https://github.com/nelsonclaire/Portfolio/blob/master/projects/chitter.md)
 [Rock Paper Scissors](https://github.com/nelsonclaire/Portfolio/blob/master/projects/rps.md)
 [Takeaway](https://github.com/nelsonclaire/Portfolio/blob/master/projects/takeaway.md)
@@ -70,6 +77,7 @@ Summed up in the acronym CEP, standing for:
 
 ## Practicals
 
+
 ### Resources
 
 * [Technical Learning Resources](https://airtable.com/shrr9VqhGBzPyfa7E/tblokmw6yNUO75ge6?blocks=hide)
@@ -78,8 +86,11 @@ Summed up in the acronym CEP, standing for:
 ------
 
 
-## Weekly goals
-
+## Weekly Goals
+[Week 11 and 12](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-11-12.md)
+[Week 10](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-10.md)
+[Week 8 and 9](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-8-9.md)
+[Week 7](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-7.md)
 [Week 6](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-6.md)
 [Week 5](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-5.md)
 [Week 4](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-4.md)

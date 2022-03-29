@@ -1,4 +1,4 @@
-# Project: Takeaway
+# Project: MakersBnB
 
 ## I am working towards achieving these goals
 
@@ -8,11 +8,11 @@
 
 ------
 
-## Link to Takeaway
+## Link to MakersBnB
 
-Challenge [here](https://github.com/makersacademy/takeaway-challenge)
+Challenge [here](https://github.com/makersacademy/course/tree/main/makersbnb)
 
-My attempt on this challenge is [here](https://github.com/nelsonclaire/takeaway-challenge)
+The team attempt on this challenge is [here](https://github.com/nelsonclaire/Makersbnb)
 
 ------
 

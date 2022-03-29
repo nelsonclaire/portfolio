@@ -1,4 +1,4 @@
-# Project: Takeaway
+# Project: Bowling Challenge in Ruby
 
 ## I am working towards achieving these goals
 
@@ -8,11 +8,11 @@
 
 ------
 
-## Link to Takeaway
+## Link to Bowling Challenge
 
-Challenge [here](https://github.com/makersacademy/takeaway-challenge)
+Challenge [here](https://github.com/makersacademy/bowling-challenge-ruby)
 
-My attempt on this challenge is [here](https://github.com/nelsonclaire/takeaway-challenge)
+My attempt on this challenge is [here](https://github.com/nelsonclaire/bowling-challenge-ruby)
 
 ------
 

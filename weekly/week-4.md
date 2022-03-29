@@ -4,6 +4,15 @@ _A weekly journal to keep track of the work I am doing towards each of the goals
 
 [Weekly outline](https://github.com/makersacademy/course/blob/master/week_outlines.md/)
 
+
+### Main focuses for this week
+
+- Agile and TDD
+- Engineering and 'Dev Recipes'
+- Databases
+- Tooling
+
+
 ------
 
 ## Goals

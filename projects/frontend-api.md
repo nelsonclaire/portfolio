@@ -1,4 +1,4 @@
-# Project: Takeaway
+# Project: Frontend API
 
 ## I am working towards achieving these goals
 
@@ -8,11 +8,11 @@
 
 ------
 
-## Link to Takeaway
+## Link to Frontend API
 
-Challenge [here](https://github.com/makersacademy/takeaway-challenge)
+Challenge [here](https://github.com/makersacademy/frontend-api-challenge)
 
-My attempt on this challenge is [here](https://github.com/nelsonclaire/takeaway-challenge)
+My attempt on this challenge is [here](https://github.com/nelsonclaire/frontend-api-challenge)
 
 ------
 

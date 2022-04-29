@@ -53,25 +53,25 @@ Summed up in the acronym CEP, standing for:
 ## Projects
 
 ## Pair Programming and Projects
-[Eat The Week](https://github.com/nelsonclaire/Portfolio/blob/master/projects/eat-the-week.md)
-[Acebook](https://github.com/nelsonclaire/Portfolio/blob/master/projects/acebook.md)
-[Notes](https://github.com/nelsonclaire/Portfolio/blob/master/projects/notes.md)
-[Thermostat](https://github.com/nelsonclaire/Portfolio/blob/master/projects/thermostat.md)
-[MakersBnB](https://github.com/nelsonclaire/Portfolio/blob/master/projects/makerbnb.md)
-[Bookmark Manager](https://github.com/nelsonclaire/Portfolio/blob/master/projects/bookmark-manager.md)
-[Battle](https://github.com/nelsonclaire/Portfolio/blob/master/projects/battle.md)
-[Oystercard](https://github.com/nelsonclaire/Portfolio/blob/master/projects/oystercard.md)
-[Boris Bikes](https://github.com/nelsonclaire/Portfolio/blob/master/projects/boris-bikes.md)
+- [Eat The Week](https://github.com/nelsonclaire/Portfolio/blob/master/projects/eat-the-week.md)
+- [Acebook](https://github.com/nelsonclaire/Portfolio/blob/master/projects/acebook.md)
+- [Notes](https://github.com/nelsonclaire/Portfolio/blob/master/projects/notes.md)
+- [Thermostat](https://github.com/nelsonclaire/Portfolio/blob/master/projects/thermostat.md)
+- [MakersBnB](https://github.com/nelsonclaire/Portfolio/blob/master/projects/makerbnb.md)
+- [Bookmark Manager](https://github.com/nelsonclaire/Portfolio/blob/master/projects/bookmark-manager.md)
+- [Battle](https://github.com/nelsonclaire/Portfolio/blob/master/projects/battle.md)
+- [Oystercard](https://github.com/nelsonclaire/Portfolio/blob/master/projects/oystercard.md)
+- [Boris Bikes](https://github.com/nelsonclaire/Portfolio/blob/master/projects/boris-bikes.md)
 
 ## Weekend Challenges 
-[Instagram](https://github.com/nelsonclaire/Portfolio/blob/master/projects/instagram.md)
-[Chitter using API](https://github.com/nelsonclaire/Portfolio/blob/master/projects/frontend-api.md)
-[Bowling in JS](https://github.com/nelsonclaire/Portfolio/blob/master/projects/bowling-js.md)
-[Bowling in Ruby](https://github.com/nelsonclaire/Portfolio/blob/master/projects/bowling-ruby.md)
-[Chitter](https://github.com/nelsonclaire/Portfolio/blob/master/projects/chitter.md)
-[Rock Paper Scissors](https://github.com/nelsonclaire/Portfolio/blob/master/projects/rps.md)
-[Takeaway](https://github.com/nelsonclaire/Portfolio/blob/master/projects/takeaway.md)
-[Airport](https://github.com/nelsonclaire/Portfolio/blob/master/projects/airport.md)
+- [Instagram](https://github.com/nelsonclaire/Portfolio/blob/master/projects/instagram.md)
+- [Chitter using API](https://github.com/nelsonclaire/Portfolio/blob/master/projects/frontend-api.md)
+- [Bowling in JS](https://github.com/nelsonclaire/Portfolio/blob/master/projects/bowling-js.md)
+- [Bowling in Ruby](https://github.com/nelsonclaire/Portfolio/blob/master/projects/bowling-ruby.md)
+- [Chitter](https://github.com/nelsonclaire/Portfolio/blob/master/projects/chitter.md)
+- [Rock Paper Scissors](https://github.com/nelsonclaire/Portfolio/blob/master/projects/rps.md)
+- [Takeaway](https://github.com/nelsonclaire/Portfolio/blob/master/projects/takeaway.md)
+- [Airport](https://github.com/nelsonclaire/Portfolio/blob/master/projects/airport.md)
 
 ## Skills Workshops
 

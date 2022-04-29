@@ -53,6 +53,7 @@ Summed up in the acronym CEP, standing for:
 ## Projects
 
 ## Pair Programming and Projects
+[Eat The Week](https://github.com/nelsonclaire/Portfolio/blob/master/projects/eat-the-week.md)
 [Acebook](https://github.com/nelsonclaire/Portfolio/blob/master/projects/acebook.md)
 [Notes](https://github.com/nelsonclaire/Portfolio/blob/master/projects/notes.md)
 [Thermostat](https://github.com/nelsonclaire/Portfolio/blob/master/projects/thermostat.md)
@@ -74,8 +75,42 @@ Summed up in the acronym CEP, standing for:
 
 ## Skills Workshops
 
+* Week 6
+[Communication](https://github.com/nelsonclaire/Portfolio/blob/master/workshops/communication.md)
+
+* Week 3
+[Empathy](https://github.com/nelsonclaire/Portfolio/blob/master/workshops/empathy.md)
+
+* Week 2
+[Feedback](https://github.com/nelsonclaire/Portfolio/blob/master/workshops/feedback.md)
+
 
 ## Practicals
+
+* Week 10
+[Code Quality](https://github.com/nelsonclaire/Portfolio/blob/master/workshops/code-quality.md)
+
+* Week 7
+[Promises](https://github.com/nelsonclaire/Portfolio/blob/master/workshops/promises.md)
+
+* Week 6
+[Callbacks](https://github.com/nelsonclaire/Portfolio/blob/master/workshops/callbacks.md)
+[Debugging in JS](https://github.com/nelsonclaire/Portfolio/blob/master/workshops/debugging-js.md)
+
+* Week 4
+[Domain Modelling Databases](https://github.com/nelsonclaire/Portfolio/blob/master/workshops/domain-modelling-databases.md)
+
+* Week 3
+[Debugging Web Apps](https://github.com/nelsonclaire/Portfolio/blob/master/workshops/debugging-web-apps.md)
+[HTTP Process Modelling](https://github.com/nelsonclaire/Portfolio/blob/master/workshops/http-process-modelling.md)
+
+* Week 2
+[Domain Modelling](https://github.com/nelsonclaire/Portfolio/blob/master/workshops/domain-modelling.md)
+[Intro to Code Review](https://github.com/nelsonclaire/Portfolio/blob/master/workshops/code-review-intro.md)
+
+* Week 1
+[Intro to Debugging](https://github.com/nelsonclaire/Portfolio/blob/master/workshops/debugging-intro.md)
+[Intro to TDD](https://github.com/nelsonclaire/Portfolio/blob/master/workshops/tdd-intro.md)
 
 
 ### Resources

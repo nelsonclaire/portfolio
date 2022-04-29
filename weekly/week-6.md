@@ -21,4 +21,10 @@ By the end of this week I can:
 2. Weekend challenge to consolidate what I have learnt this week
     - [Bowling](https://github.com/nelsonclaire/Portfolio/blob/master/projects/bowling-js.md)
 
+Attend workshop on Optimising Your Team through [communication](https://github.com/nelsonclaire/Portfolio/blob/master/workshops/communication.md)
+
+
+
+
+
 

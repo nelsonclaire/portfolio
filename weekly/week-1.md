@@ -30,4 +30,6 @@ By the end of this week I can:
   <dd>I have attended a workshop and been introduced to a technique for uncovering the root-cause of bugs in my code and I can apply a consistent process to resolve the issue when my code is not working.</dd>
 </dl>
 
+I am feeling comfortable with Ruby after completing the Makers pre-requisites and completing [Codewars katas](https://www.codewars.com/users/nelsonclaire)
+
 

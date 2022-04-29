@@ -19,7 +19,6 @@ By the end of this week I can:
 * Give and receive meaningful code review
 
 
-
 1. The full week day challenge
     - [MakersBnB](https://github.com/nelsonclaire/Portfolio/blob/master/projects/makersbnb.md)
 

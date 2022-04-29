@@ -22,4 +22,4 @@ By the end of this week I can:
 2. Weekend challenge to consolidate what I have learnt this week
     - [Takeaway](https://github.com/nelsonclaire/Portfolio/blob/master/projects/takeaway.md)
 
-
+I have taken part in my first code review using the weekend Airport Challenge. I have reviewed another developers code and provided constructive feedback on their work.

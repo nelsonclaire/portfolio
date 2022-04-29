@@ -20,4 +20,4 @@ My attempt on this challenge is [here](https://github.com/nelsonclaire/bowling-c
 
 - I can answer yes to the following...
   - I can diagram and explain my TDD process to my peers and/or a coach
-  - I have collected feedback from my peers about how I am as a pair partner that shows I am improving
+  - I have collected feedback from my peers about how I am as a pair partner that shows I am improving 

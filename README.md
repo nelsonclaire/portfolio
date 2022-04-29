@@ -122,13 +122,13 @@ Summed up in the acronym CEP, standing for:
 
 
 ## Weekly Goals
-[Week 11 and 12](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-11-12.md)
-[Week 10](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-10.md)
-[Week 8 and 9](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-8-9.md)
-[Week 7](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-7.md)
-[Week 6](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-6.md)
-[Week 5](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-5.md)
-[Week 4](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-4.md)
-[Week 3](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-3.md)
-[Week 2](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-2.md)
-[Week 1](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-1.md)
+- [Week 11 and 12](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-11-12.md)
+- [Week 10](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-10.md)
+- [Week 8 and 9](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-8-9.md)
+- [Week 7](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-7.md)
+- [Week 6](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-6.md)
+- [Week 5](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-5.md)
+- [Week 4](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-4.md)
+- [Week 3](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-3.md)
+- [Week 2](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-2.md)
+- [Week 1](https://github.com/nelsonclaire/Portfolio/blob/master/weekly/week-1.md)
